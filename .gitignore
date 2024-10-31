@@ -2,3 +2,6 @@
 
 /BookStore/obj
 /BookStore/bin/Debug/net8.0
+BookStore/appsettings.json
+BookStore/appsettings.Development.json
+BookStore/Properties/launchSettings.json
